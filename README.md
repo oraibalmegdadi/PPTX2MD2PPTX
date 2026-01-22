@@ -49,12 +49,12 @@ Create a Python virtual environment:
 ```bash
 python3 -m venv md2pptx
 ```
-##Activate the environment:
+## Activate the environment:
 
 ```bash
  md2pptx/bin/activate
 ```
-##📦 Install Python Dependencies
+## 📦 Install Python Dependencies
 ```bash
 pip install --upgrade pip
 pip install python-pptx

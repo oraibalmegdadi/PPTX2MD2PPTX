@@ -30,7 +30,7 @@ Install system dependencies:
 ```bash
 sudo apt update
 sudo apt install -y python3-venv python3-pip
-
+```
 
 ## 📁 Recommended Project Structure
 
